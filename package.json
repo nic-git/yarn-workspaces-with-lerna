@@ -1,0 +1,15 @@
+{
+  "name": "yw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "site-a",
+    "site-b",
+    "shared"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
